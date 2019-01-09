@@ -4,7 +4,7 @@ How to use: Create a bot user on discord (https://www.youtube.com/watch?v=QEcC0j
 
 The command to use the script on discord is .arbys catchall # of accounts to make
 
-Ex: .arbys email.store 3
+Ex: .arbys johnson.store 3
 
 The coupon will be delievered to your catchall email.
 
