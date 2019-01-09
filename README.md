@@ -1,4 +1,4 @@
-Small script to sign up for free food on Arbys. Requirements: Python 3.6 Requests Names Discord.py 0.16 (async) Colorama Catchall domain A brain
+Small script to sign up for free food on Arbys using a discord bot. Requirements: Python 3.6 Requests Names Discord.py 0.16 (async) Colorama Catchall domain A brain
 
 How to use: Create a bot user on discord (https://www.youtube.com/watch?v=QEcC0jUz1aM if you don't know how). Then input your bots token into 'Your Token Here'. Add the bot to your server and it will be good to go.
 
